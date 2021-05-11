@@ -32,3 +32,5 @@ if __name__ =='__main__':
     print('入力', num_list)
     heap_sort(num_list)
     print('結果', num_list)
+
+    print('Hello world')
